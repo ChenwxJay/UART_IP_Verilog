@@ -1,0 +1,2 @@
+# UART_IP_Verilog
+使用Verilog语言实现了一个带有异步FIFO的UART 嵌入式IP核，已通过Modelsim时序仿真和FPGA板级验证
